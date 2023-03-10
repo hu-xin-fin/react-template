@@ -2,11 +2,10 @@
 
 # 配置 eslint
 
-## eslint 官网 
-* `http://eslint.cn/`
-* 原理 `http://eslint.cn/docs/about/`
-* 规则 `http://eslint.cn/docs/rules/`
-* Getting Started with ESLint `http://eslint.cn/docs/user-guide/getting-started`
+## eslint [官网](http://eslint.cn/) 
+* [原理](http://eslint.cn/docs/about/)
+* [规则](http://eslint.cn/docs/rules/)
+* [Getting Started with ESLint](http://eslint.cn/docs/user-guide/getting-started)
 
 ## 配置
 1. 安装 eslint `npm install eslint --save-dev`，安装 eslint/create-config `npm i @eslint/create-config@0.4.2`
