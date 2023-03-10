@@ -13,7 +13,40 @@ react-template
 
 ###### 使用说明
 ###### 目录结构
-* 快速生成目录的插件
+```
+react-template
+├─ .eslintrc.json
+├─ .gitignore
+├─ doc
+│  ├─ after
+│  ├─ inProgress
+│  └─ pre
+│     ├─ createProject
+│     ├─ node
+│     └─ webpack
+├─ package-lock.json
+├─ package.json
+├─ public
+│  ├─ favicon.ico
+│  ├─ index.html
+│  ├─ logo192.png
+│  ├─ logo512.png
+│  ├─ manifest.json
+│  └─ robots.txt
+├─ README.es.md
+├─ README.md
+└─ src
+   ├─ App.css
+   ├─ App.js
+   ├─ App.test.js
+   ├─ index.css
+   ├─ index.js
+   ├─ logo.svg
+   ├─ reportWebVitals.js
+   └─ setupTests.js
+
+```
+###### 版本内容更新
 ###### 常见问题
 # React 学习笔记
 ## Readme 学习指南
@@ -22,3 +55,4 @@ react-template
 * 创建一个新的单页应用： `npx create-react-app xxxx`
 <br/>
 内部使用
+
